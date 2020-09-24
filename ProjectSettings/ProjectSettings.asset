@@ -190,6 +190,7 @@ PlayerSettings:
   uIStatusBarHidden: 1
   uIExitOnSuspend: 0
   uIStatusBarStyle: 0
+<<<<<<< HEAD
   iPhoneSplashScreen: {fileID: 0}
   iPhoneHighResSplashScreen: {fileID: 0}
   iPhoneTallHighResSplashScreen: {fileID: 0}
@@ -206,6 +207,8 @@ PlayerSettings:
   iPhone65inLandscapeSplashScreen: {fileID: 0}
   iPhone61inPortraitSplashScreen: {fileID: 0}
   iPhone61inLandscapeSplashScreen: {fileID: 0}
+=======
+>>>>>>> cafb2ca41b33b0546d0eadef764ed1a92dce7638
   appleTVSplashScreen: {fileID: 0}
   appleTVSplashScreen2x: {fileID: 0}
   tvOSSmallIconLayers: []
@@ -620,7 +623,11 @@ PlayerSettings:
   cloudProjectId: bf55dcb0-9379-4162-a316-df66ebdce0a1
   framebufferDepthMemorylessMode: 0
   projectName: GeometryVisualization
+<<<<<<< HEAD
   organizationId: ormolvig
+=======
+  organizationId: quintonhoffman22
+>>>>>>> cafb2ca41b33b0546d0eadef764ed1a92dce7638
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
